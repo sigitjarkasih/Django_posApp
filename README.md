@@ -15,47 +15,47 @@ Material Admin Design Bootstrap Dash <br>
 Material Design Icon <br>
 MUI <br>
 
-Features :
+Features : <br>
 
-Halaman masuk
-Halaman Beranda/Dasbor
-Menampilkan Ringkasan
--Kategori Manajemen
-Tambahkan kategori baru
-Daftar Semua Kategori
-Perbarui Detail Kategori
-Hapus Detail Kategori
--Manajemen Produk
-Tambahkan Produk Baru
-Daftar Semua Produk
-Perbarui Detail Produk
-Hapus Detail Produk
-Tempat Penjualan (POS)
-Tambahkan Item Produk ke Daftar
-Hitung Secara Otomatis totalnya
-Hapus Item Produk dari daftar
-Perbarui Jumlah Barang dan Hitung Ulang Total
-Hitung Jumlah Pajak Secara Otomatis
-Modal Formulir Pembayaran
-Hitung Otomatis Perubahan Pelanggan
-Menunjukkan Resi Transaksi
--Manajemen penjualan
-Cantumkan Semua Transaksi Penjualan
-Lihat Resi Transaksi
-Cetak Resi Transaksi
-Hapus Detail Transaksi
-Otentikasi Pengguna
-Keluar
-Otentikasi Pengguna
+Halaman masuk <br>
+Halaman Beranda/Dasbor <br>
+Menampilkan Ringkasan <br>
+-Kategori Manajemen <br>
+Tambahkan kategori baru <br>
+Daftar Semua Kategori <br>
+Perbarui Detail Kategori <br>
+Hapus Detail Kategori <br>
+-Manajemen Produk <br>
+Tambahkan Produk Baru <br>
+Daftar Semua Produk <br>
+Perbarui Detail Produk <br>
+Hapus Detail Produk <br>
+Tempat Penjualan (POS) <br>
+Tambahkan Item Produk ke Daftar <br>
+Hitung Secara Otomatis totalnya <br>
+Hapus Item Produk dari daftar <br>
+Perbarui Jumlah Barang dan Hitung Ulang Total <br>
+Hitung Jumlah Pajak Secara Otomatis <br>
+Modal Formulir Pembayaran <br>
+Hitung Otomatis Perubahan Pelanggan <br>
+Menunjukkan Resi Transaksi <br>
+-Manajemen penjualan <br>
+Cantumkan Semua Transaksi Penjualan <br>
+Lihat Resi Transaksi <br>
+Cetak Resi Transaksi <br>
+Hapus Detail Transaksi <br>
+Otentikasi Pengguna <br>
+Keluar <br>
+Otentikasi Pengguna <br>
 
-User Informasi
+User Informasi <br>
 
-SuperUser
-Username:jr
-Password:sigitjr
+SuperUser <br>
+Username:jr <br>
+Password:sigitjr <br>
 
-Project Run
+Project Run <br>
 
-pip install Django
-python manage.py migrate
-python manage.py runserver
+pip install Django <br>
+python manage.py migrate <br>
+python manage.py runserver <br>
