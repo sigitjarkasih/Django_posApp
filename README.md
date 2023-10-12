@@ -4,16 +4,16 @@ Point of Sale System
 
 menggunakan :
 
-Python
-Django
-HTML
-CSS
-JavaScript
-JQuery
-Bootstrap v5
-Material Admin Design Bootstrap Dash
-Material Design Icon
-MUI
+Python <br>
+Django <br>
+HTML <br>
+CSS <br>
+JavaScript <br>
+JQuery <br>
+Bootstrap v5 <br>
+Material Admin Design Bootstrap Dash <br>
+Material Design Icon <br>
+MUI <br>
 
 Features :
 
